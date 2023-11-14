@@ -8,4 +8,5 @@ I'm an enthusiastic coding bootcamp graduate with a track record of driving inno
 ### Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,nextjs,postgres,sass,tailwind,figma,git,github,netlify)](https://skillicons.dev)
+
 Always excited about opportunities to grow my tech stack!
