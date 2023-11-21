@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Welcome to my GitHub Portfolio! I'm a Full Stack Developer based in Vienna, Austria. I'm an enthusiastic coding bootcamp graduate with a track record of pushing operational excellence, leading complex projects, and succeeding with dynamic teams. I believe my diverse background, but especially my studies in psychology (try to measure occurances that many consider imaginary), and philosophy (try to win an argument against Sokrates), has provided me with a deep understanding and appreciation for data and logic - which serves as a great foundation to become an expert developer ;) 
+Welcome to my GitHub Portfolio! I'm a Full Stack Developer based in Vienna, Austria. I'm an enthusiastic coding bootcamp graduate with a track record of pushing operational excellence, leading complex projects, and succeeding with dynamic teams. 
+
+I believe my diverse background, but especially my studies in psychology (try to measure occurances that many consider imaginary), and philosophy (try to win an argument against Sokrates), has provided me with a deep understanding and appreciation for data and logic - which serves as a great foundation to become an expert developer ;) 
 
 I'm committed to meaningful impact, driven by innovation, and dedicated to continuous learning, so hit me up with any impactful project ideas! 
 
