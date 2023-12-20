@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub Portfolio! I'm a Full Stack Developer based in Vienna, Austria. I'm currently developing the frontend for an EnergyTech Startup and am an enthusiastic full-stack web development bootcamp graduate with a track record of pushing operational excellence, leading complex projects, and succeeding with dynamic teams. 
+Welcome to my GitHub Portfolio! I'm a Full Stack Developer based in Vienna, Austria currently developing the frontend for an EnergyTech Startup. I'm an enthusiastic full-stack web development bootcamp graduate with a track record of pushing operational excellence, leading complex projects, and succeeding with dynamic teams. 
 
 I believe my diverse background, but especially my studies in psychology (try to measure occurances that many consider imaginary), and philosophy (try to win an argument against Sokrates), has provided me with a deep understanding and appreciation for data and logic - which serves as a great foundation to become an expert developer ;) 
 
